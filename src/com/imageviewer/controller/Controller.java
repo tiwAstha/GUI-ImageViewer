@@ -7,8 +7,6 @@ import com.imageviewer.model.DataModel;
  * Contains methods called by the UserInterface class.
  * It uses the DataModel class to manage the image objects.
  * The Controller gives the UserInterface class the image and title to display.
- *
- * @author Aylee Andersen
  * @version 1.0
  */
 public class Controller {
